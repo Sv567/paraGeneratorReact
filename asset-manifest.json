@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paraGeneratorReact/static/css/main.122f22e5.css",
+    "main.js": "/paraGeneratorReact/static/js/main.f5a2c977.js",
+    "static/js/453.84e06095.chunk.js": "/paraGeneratorReact/static/js/453.84e06095.chunk.js",
+    "index.html": "/paraGeneratorReact/index.html",
+    "main.122f22e5.css.map": "/paraGeneratorReact/static/css/main.122f22e5.css.map",
+    "main.f5a2c977.js.map": "/paraGeneratorReact/static/js/main.f5a2c977.js.map",
+    "453.84e06095.chunk.js.map": "/paraGeneratorReact/static/js/453.84e06095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.122f22e5.css",
+    "static/js/main.f5a2c977.js"
+  ]
+}
